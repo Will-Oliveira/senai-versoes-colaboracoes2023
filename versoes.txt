@@ -1,0 +1,14 @@
+| Comando             | Descrição                                                |
+|---------------------|----------------------------------------------------------|
+| git init            | Inicializa um repositório Git em um diretório local      |
+| git clone           | Clona um repositório Git existente                       |
+| git add             | Adiciona mudanças ao índice do Git                       |
+| git commit          | Cria um novo commit com as mudanças adicionadas          |
+| git push            | Empurra os commits locais para um repositório remoto     |
+| git pull            | Puxa as mudanças mais recentes de um repositório remoto  |
+| git branch          | Lista, cria ou exclui branches                           |
+| git merge           | Combina alterações de diferentes branches                |
+| git checkout        | Alterna entre diferentes branches ou commits             |
+| git status          | Exibe o status atual do repositório Git                  |
+
+Vale lembrar que até a versão do Git 2.31.1, há mais de 1500 comandos relatados na documentação oficial.
